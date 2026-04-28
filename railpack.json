@@ -1,4 +1,11 @@
 {
-  "$schema": "https://schema.railpack.com",
-  "phpExtensions": ["gd"]
+    "packages": [
+        "php",
+        "php-gd",
+        "php-mysql",
+        "php-xml",
+        "php-mbstring",
+        "php-curl",
+        "php-zip"
+    ]
 }
